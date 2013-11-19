@@ -1,0 +1,715 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"startPosition"
+			],
+			[
+				"ne",
+				"newPosition"
+			],
+			[
+				"ver",
+				"verticalPosition"
+			],
+			[
+				"a",
+				"abbr	<abbr>"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"svg",
+				"svgNavItems"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"co",
+				"com1	CSS Simple Comments"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"bl",
+				"BLOCKQUOTE"
+			],
+			[
+				"background-c",
+				"background-color	zen:css_properties"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"link",
+				"link	link - author"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"cop",
+				"File: Copy URL"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"Snippet: c",
+				"Snippet: HTML Comment"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"spe",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"SPE",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sp",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"com",
+				"Snippet: CSS Simple Comments"
+			],
+			[
+				"spec",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"sear",
+				"File: Search Files"
+			],
+			[
+				"ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"op",
+				"Gist: Open Gist"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"crea",
+				"Gist: Create Public Gist"
+			],
+			[
+				"fi",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"block",
+				"Snippet: <blockquote>"
+			],
+			[
+				"bloc",
+				"Snippet: <blockquote>"
+			],
+			[
+				"blo",
+				"Snippet: <blockquote>"
+			],
+			[
+				"html c",
+				"Snippet: HTML Comment"
+			],
+			[
+				"sub",
+				"Snippet: CSS Sub Section Comments"
+			],
+			[
+				"Snippet: css",
+				"Snippet: CSS Section Comments"
+			],
+			[
+				"ma",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"mark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampplite/htdocs/demos/.gitattributes",
+		"/C/xampplite/htdocs/html5-boilerplate/scss/main.scss",
+		"/C/xampplite/htdocs/html5-boilerplate/scss/normalize.scss",
+		"/C/xampplite/htdocs/html5-boilerplate/css/main.scss",
+		"/C/xampplite/htdocs/html5-boilerplate/css/normalize.scss",
+		"/C/xampplite/htdocs/html5-boilerplate/sass/main.scss",
+		"/C/xampplite/htdocs/html5-boilerplate/index.php",
+		"/C/xampplite/htdocs/html5-boilerplate/markdown/mapgraph_main_content.md",
+		"/C/xampplite/htdocs/html5-boilerplate/html/mapgraph_main_content.html",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Sass/README.md",
+		"/C/xampplite/htdocs/html5-boilerplate/index.html",
+		"/C/xampplite/htdocs/html5-boilerplate/html5-boilerplate.sublime-project",
+		"/C/xampplite/htdocs/html5-boilerplate/html5-boilerplate.sublime-workspace",
+		"/C/xampplite/htdocs/html5-boilerplate/mapgraph_main_content.md",
+		"/C/Users/witt/Dropbox/Adaptive-Web-Design/markdown/README.md",
+		"/C/Users/witt/Dropbox/Adaptive-Web-Design/markdown/README.textile",
+		"/C/xampplite/html5-boilerplate/css/main.css",
+		"/C/Users/witt/Dropbox/responsive_design_workflow/ch03-content-reference-wireframes/styles/base.css",
+		"/C/Users/witt/Dropbox/responsive_design_workflow/ch03-content-reference-wireframes/styles/large.css",
+		"/C/Users/witt/Dropbox/responsive_design_workflow/ch03-content-reference-wireframes/styles/medium.css",
+		"/C/Users/witt/Dropbox/responsive_design_workflow/ch03-content-reference-wireframes/wireframe.html",
+		"/C/Users/witt/Dropbox/responsive_design_kadlec/ch2/ch2.4.html",
+		"/C/Users/witt/Dropbox/sass_for_designers/chapter3/index.html",
+		"/C/Users/witt/AppData/Local/Temp/Temp1_2013CSSOffDesign.zip/2013CSSOffDesign/README.txt",
+		"/C/Users/witt/Dropbox/sass_for_designers/chapter3/sass/partials/_base.scss",
+		"/C/Users/witt/Dropbox/sass_for_designers/chapter3/sass/partials/_modules.scss",
+		"/C/Users/witt/Dropbox/responsive_design_workflow/ch04-designing-in-text/index.markdown",
+		"/C/xampplite/html5-boilerplate/index.html",
+		"/C/Users/witt/Dropbox/rdw-code-examples-master/ch03-content-reference-wireframes/wireframe.html",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_nav.scss",
+		"/C/Users/witt/AppData/Local/Temp/Temp1_KiwiSite-master (1).zip/KiwiSite-master/scss/global.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_icons.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/js/global.js",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_footer.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_grid.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_buttons.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_bits.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/test.html",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_modules.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/config.rb",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/global.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/scss/_header.scss",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/index.php",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/css/global.css",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/x_config.rb",
+		"/C/xampp/htdocs/wordpress-mu/wp-admin/ms-admin.php",
+		"/C/Program Files (x86)/Scout/production.xml",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/parts/map-babybear.html",
+		"/C/xampplite/htdocs/Boxtown-Cars-master/images/debut_light.png",
+		"/C/xampplite/htdocs/projects/energikampanjen/energikampanjen.html",
+		"/C/xampplite/htdocs/projects/energikampanjen/js/main.js",
+		"/C/xampplite/htdocs/projects/energikampanjen/css/main.css",
+		"/C/xampplite/htdocs/projects/energikampanjen/index.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/energitiltakene.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/javascripts/app.js",
+		"/C/Users/witt/Dropbox/Energieffektivisering/D3/04_scaling_data.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/stylesheets/app.css",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/wittpresssd/style.css",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/wittpresssd/header-wittpresssd.php",
+		"/C/xampplite/htdocs/source/html5-boilerplate/css/main.css",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/wittpresssd/wittpresssd-page.php",
+		"/C/Users/witt/Dropbox/javascript_ullmann/modern_javascript_scripts/ch06/js/tasks.js",
+		"/C/Users/witt/Dropbox/javascript_ullmann/modern_javascript_scripts/ch06/tasks.html",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/wittpresssd/contentservices-page.php",
+		"/C/Users/witt/Downloads/invite.ics",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/wittpresssd/wittpresssd_contentservice-page.php",
+		"/C/Users/witt/.gitk",
+		"/C/Users/witt/.gitconfig",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/pears/README",
+		"/C/xampplite/htdocs/source/html5-boilerplate/createproject.sh",
+		"/C/Users/witt/Dropbox/responsive_design_kadlec/ch2/css/style-start.css",
+		"/C/xampplite/htdocs/coyier_site/scss/_normalize.scss",
+		"/C/xampplite/htdocs/coyier_site/scss/_vars.scss",
+		"/C/xampplite/htdocs/coyier_site/scss/global.scss",
+		"/C/xampplite/htdocs/coyier_site/scss/icons.scss",
+		"/C/xampplite/htdocs/coyier_site/scss/typography.scss",
+		"/C/xampplite/htdocs/coyier_site/index.php",
+		"/C/Users/witt/Dropbox/javascript_ullmann/modern_javascript_scripts/ch06/js/tasks2.js",
+		"/C/Users/witt/.ssh/github_rsa.pub",
+		"/C/Users/witt/Desktop/320_Up/320andup_test.html",
+		"/C/Users/witt/Dropbox/javascript_ullmann/modern_javascript_scripts/ch04/names.html",
+		"/C/Users/witt/Dropbox/javascript_ullmann/modern_javascript_scripts/ch04/js/names.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/index.html",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/listings/5.20.js",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/listings/5.14.js",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/js/snippets.js",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/scss/snippets.scss",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Tag/readme.md",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Tag/Tag Remove Attributes/Commands.sublime-commands",
+		"/C/Users/witt/Desktop/320_Up/320andup.html",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/listings/5.13.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/listings/5.12.js",
+		"/C/Users/witt/Dropbox/jobbsøk/jobbsøk_2013/Attest_Christopher_Hansen_fra_KHIO.txt",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/listings/5.11.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 5/6549_05_Code/05/05.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/index.html",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/listings/exc_3.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/listings/4.27.js",
+		"/C/Users/witt/Dropbox/eiendomskatalog/foundation/margarinfabrikken_barnehage_prosjekt.html",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/complete.js",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/javascripts/jquery.foundation.orbit.js",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/javascripts/jquery.js",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/04_svg_energisparing.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/sidebar.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation/stylesheets/foundation.css",
+		"/C/Users/witt/Dropbox/Energieffektivisering/test.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/foundation_old/energisparingstiltakene.html",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/xampplite/htdocs/masonry/masonry.sublime-project",
+		"/C/Users/witt/Dropbox/Energieffektivisering/LICENSE.md",
+		"/C/Users/witt/Dropbox/Energieffektivisering/D3/03_setting_attributes.html",
+		"/C/xampp/htdocs/wordpress-mu/wp-content/themes/twentyeleven/content-single.php",
+		"/C/Users/witt/Dropbox/eiendomskatalog/foundation/margarinfabrikken_barnehage.html",
+		"/C/xampp/htdocs/wordpress-mu/wp-content/themes/twentyeleven/index.php",
+		"/C/Users/witt/Dropbox/eiendomskatalog/foundation/javascripts/app.js",
+		"/C/Users/witt/Dropbox/eiendomskatalog/foundation/stylesheets/foundation.css",
+		"/C/Users/witt/Dropbox/eiendomskatalog/foundation/eiendomskatalog_testing.html",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/js/snippets-ck.js",
+		"/C/Users/witt/Dropbox/Energieffektivisering/D3/06_transitions.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/D3/02_binding_data.html",
+		"/C/Users/witt/Dropbox/Energieffektivisering/D3/01_data.html",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/listings/4.24.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/listings/4.19.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/listings/4.18.js",
+		"/C/Users/witt/Dropbox/Learning_Jquery_3/Chapter 4/listings/4.17.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wittpresssd_allsidig",
+			"Heading",
+			"Lorem",
+			"Unindent",
+			"ctrl+alt+i",
+			"indent",
+			"test",
+			"Section",
+			"max-width",
+			"verdi",
+			"stovnerhjemmet",
+			"get_template_part",
+			"columns",
+			"Link",
+			"columns",
+			"ctrl+k",
+			"columns",
+			"Link",
+			"columns",
+			"Link",
+			"columns",
+			"-",
+			"favorite",
+			"columns",
+			"Link",
+			"Link 1",
+			"columns",
+			"            <li><a href=\"#\">Link 4</a></li>",
+			"mobile",
+			"mobile-two",
+			"six columns",
+			"<li><a href=\"#\">Link 1</a></li>",
+			"panel",
+			"; ",
+			"<dl>",
+			"dl",
+			"30px",
+			"940px",
+			"max-width",
+			"font-size",
+			"font-family",
+			"940px",
+			"max-width",
+			".purple_bg",
+			"item_heading",
+			"html",
+			"aaaaaaaaaaaaaaaaaaa",
+			"dui",
+			"the",
+			"strong",
+			"em",
+			"span",
+			"a ",
+			"encoding",
+			"contain",
+			".container",
+			"Logotype",
+			"info",
+			".gs",
+			".entry-title",
+			"google_element",
+			".entry-title",
+			"lurer",
+			"#tagline",
+			"#logo a",
+			"#header",
+			"finner",
+			".format_text .kolonne_innhold_artikkel p",
+			"#content",
+			"em",
+			"px",
+			"serif",
+			"ctrl+alt",
+			"Søk",
+			"google_element",
+			"custom tem",
+			"thesis_search_form",
+			"#content",
+			"search",
+			"Photography",
+			"<article>",
+			"Fotografi",
+			"Photography",
+			"<a href=\"/ffallback.jpg\"></a>",
+			"div",
+			"line",
+			"The",
+			"the",
+			"The",
+			"the",
+			"The",
+			"the",
+			"The",
+			"name",
+			"the",
+			"/ffallback.jpg",
+			"ffallback",
+			"jpg",
+			"ctrl+alt",
+			"down",
+			"=\"\"></",
+			"happy",
+			"<section class=\"happy\">",
+			"Photography",
+			"></",
+			"font:",
+			"font",
+			"\"roycroft-1\",\"roycroft-2\",sans-serif;",
+			"font:",
+			"<a>",
+			"a",
+			"easeInOutBack",
+			"easeOutBounce",
+			"easeInOutBounce",
+			"easeOutQuad",
+			"margin",
+			"\n				",
+			"\n                ",
+			"				",
+			"stayer",
+			"someclass",
+			"february",
+			"february.jpg",
+			"january",
+			"/wp-content/themes/pears/images/temp-img.png",
+			"/wp-content/themes/pears/images/thumb.png",
+			"http://localhost.localdomain/wordpress-mu/codepatterns/files/2012/08/thumb.png",
+			"/wp-content/themes/pears/images/thumb.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<article>",
+			"Fotografi"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"genera",
+				"wordpress-mu/wp-includes/general-template.php"
+			],
+			[
+				"la",
+				"scss/_layout.scss"
+			],
+			[
+				"master",
+				"Cederholm/css/master.css"
+			],
+			[
+				"",
+				"/C/Users/witt/Desktop/pears_url_problems.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true
+}
